@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "ru.klientbaza.app", "sha256_cert_fingerprints": ["B3:D9:8F:EB:1F:04:81:83:67:65:27:F4:85:13:DE:71:1C:B3:8F:B6:E7:87:CD:02:BA:2A:06:CA:F8:4A:DE:7E", "A4:AE:B5:2E:E1:96:38:17:CC:07:F3:98:74:74:DE:E9:6C:25:C8:F3:C0:18:DB:24:B7:A6:9C:43:C8:8A:F9:A6"]}}]
